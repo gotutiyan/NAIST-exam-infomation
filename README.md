@@ -46,17 +46,26 @@ What's "Divisions"
 |[NAIST合格体験記2021(2022春学期第一回)](https://note.com/hatodove/n/nee1286d4c0d7)|I|2022|
 |[NAIST受験FAQ（他分野向け）](https://note.com/rodamille/n/ne36a40b13809)|I|2022|
 |[NAIST受験記録2021](https://namekosiru.hatenablog.com/entry/2021/07/25/142259)|I|2022|
+|[奈良先端科学技術大学院大学　物質創成　合格体験記](https://note.com/yanag06/n/ncc3ac63f70de)|M|2022|
+|[NAISTの物質創成科学区分に合格したときの話](https://find100.hatenablog.com/entry/2021/07/20/143842)|M|2022|
 |[NAIST合格体験記2021(2022年入学 情報科学研究科 第1回)](https://jetcarrot.hatenablog.com/entry/2021/07/21/133000)|I|2022|
 |[NAIST 情報科学区分 院試 文系学部からの合格体験記](https://inshikiroku2021.hatenablog.com/entry/2021/09/08/005712)|I|2022|
+|[【合格体験記】奈良先端科学技術大学院大学（NAIST）のバイオサイエンス領域に合格た人の話。](https://note.com/a_nya_inshi/n/n8f5774022b4d)|B|2022?|
+|[英弱によるNAIST（物質）合格体験記](https://note.com/tyuyamato/n/n5575545a49a9)|M|2022|
 |[NAIST受験記2020（2021年春入学・1回目）](https://gotutiyan.hatenablog.com/entry/2020/10/02/105021)|I|2021|
 |[高専専攻科からNAISTへ (小論文のTexサンプル有)](https://maxcell-1000.sakura.ne.jp/wp/senkouka-to-naist)|I|2021|
 |[2019年NAIST受験記（情報科学専攻）](https://kuroneko1259.hatenablog.com/entry/2019/07/19/140502)|I|2020|
 |[NAISTの受験記（2020年度入学 情報系）](https://umeboshi-lab.com/entry/2020/03/20/180143)|I|2020|
 |[NAIST情報科学博士前期課程に合格しました](https://tanaken.me/posts/190720/)|I|2020|
+|[NAIST バイオのくらし](https://avelygmf.hatenablog.com/entry/2020/09/17/171847)|B|2020|
 |[NAIST受験をした話](https://sumansonian.net/etc_NAIST_exam/)|I?|2019|
 |[NAISTに飛び入学したので情報を書きます](https://zima168.hatenablog.com/entry/2019/05/16/152456)|I|2019|
+|[NAIST受験記最新版　2019年度入学](https://denden-seven.hatenablog.com/entry/2019/01/09/122354)|I|2019|
 |[文系がNAISTを受験した話](https://kogumagoya.com/blog/archives/298)|I|2017|
 |[NAIST 情報科学研究科 受験体験記 (2017 年度春学期入学)](https://sira.dev/blog/2016/07/07/naist-exam/)|I|2017|
+|[NAIST受験記（情報科学研究科 2016年度 第1回）](https://kujira16.hateblo.jp/entry/2015/07/17/112337)|I|2016|
+|[NAIST合格体験記](https://www.shirayu.net/note/naist/road2pass)|I|2009|
+|[奈良先端大の入学試験対策【NAIST,バイオサイエンス】](https://realpuppet.com/%E5%A5%88%E8%89%AF%E5%85%88%E7%AB%AF%E5%A4%A7%E3%81%AE%E5%85%A5%E5%AD%A6%E8%A9%A6%E9%A8%93%E5%AF%BE%E7%AD%96%E3%80%90naist%E3%83%90%E3%82%A4%E3%82%AA%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9/)|B|????|
 
 
 
