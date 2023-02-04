@@ -39,6 +39,8 @@ What's "Divisions"
 |[2022第1回 NAIST合格体験記](https://toy70.hatenablog.com/entry/2022/07/25/191108)|I|2023|
 |[今更書くNAIST受験記](https://prokuma.hateblo.jp/entry/2022/01/31/194445)|I|2023|
 |[NAIST合格体験記【2022年度】](https://yattinda.hatenablog.com/entry/2022/12/18/192033)|I|2023|
+|[NAIST合格体験記(2022年第一回受験)](https://note.com/ykn_shiro/n/n6ea20286aec7)|I|2023|
+|[NAIST情報合格体験記(2023年度春入学第1回)](https://note.com/north_snow01/n/n38d39d1a6866)|I|2023|
 |[NAIST受験記 2022年春入学(第1回)](https://masapage.com/2021/07/21/naist_exam_2021/)|I|2022|
 |[NAIST情報科学領域合格体験記【2022年度春入学第3回】](https://gabutech.vercel.app/blog/ff5al_eh0i4)|I|2022|
 |[NAIST情報科学領域合格体験記（2022年度春入学第1回）](https://note.com/dovedovepigeon/n/n35d806eaa4cf)|I|2022|
