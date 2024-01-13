@@ -1,6 +1,6 @@
 # NAIST-exam-infomation
 NAISTの受験関連情報（受験記とか）を頑張って集めるものです．  
-Information about NAIST examination. (e.g. a record of an examination)
+Information about NAIST examination. (e.g. a examination records)
 
 What's "Divisions"
 - I → 情報科学領域（Information Science）
@@ -29,11 +29,14 @@ What's "Divisions"
 
 
 
-### 受験記録 （records of an examination）
+### 受験記録 （examination records）
 
 |Title|Devisions|Year|
 |:--|:-:|:-:|
 |[NAIST 入試に関する個人的なメモ](https://kyohei-fushida.net/entrance_exam.html)|||
+|[NAIST(情報領域)に落ちて京大情報学研究科システム科学コースの院試に合格した話](https://note.com/kita0908/n/nfa09f31bfa19)|I|2023|
+|[NAIST合格体験記2回目受験](https://naist-dao.hatenablog.com/entry/2023/07/22/110403)|I|2023|
+|[NAIST受験記（2023年度春入学第2回）](https://kuge-masa.hatenablog.com/entry/2023/05/03/140642)|I|2023|
 |[NAIST受験記(2023年度春学期入学第1回入試)](https://note.com/tamtam_wa/n/nb1a26817a113)|I|2023|
 |[最強のNAIST情報科学領域合格体験記【2022年度春入学第１回】](https://shota-ozaki.org/3938/)|I|2023|
 |[2022第1回 NAIST合格体験記](https://toy70.hatenablog.com/entry/2022/07/25/191108)|I|2023|
