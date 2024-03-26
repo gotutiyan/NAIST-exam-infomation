@@ -34,6 +34,7 @@ What's "Divisions"
 |Title|Devisions|Year|
 |:--|:-:|:-:|
 |[NAIST 入試に関する個人的なメモ](https://kyohei-fushida.net/entrance_exam.html)|||
+|[NAIST合格体験記(2023年第1回情報科学領域)](https://note.com/one_uno_hana/n/nd4ef1e59ffdd)|I|2024|
 |[NAIST(情報領域)に落ちて京大情報学研究科システム科学コースの院試に合格した話](https://note.com/kita0908/n/nfa09f31bfa19)|I|2023|
 |[NAIST合格体験記2回目受験](https://naist-dao.hatenablog.com/entry/2023/07/22/110403)|I|2023|
 |[NAIST受験記（2023年度春入学第2回）](https://kuge-masa.hatenablog.com/entry/2023/05/03/140642)|I|2023|
