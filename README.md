@@ -20,6 +20,7 @@ What's "Divisions"
 |[https://github.com/xxmrkn/NAIST_essay](https://github.com/xxmrkn/NAIST_essay)|I|2023|
 |[https://github.com/mlieynua/naist_essay](https://github.com/mlieynua/naist_essay)|I|2022|
 |[https://github.com/dovedovepigeon/naist_essay](https://github.com/dovedovepigeon/naist_essay)|I|2022|
+|[https://github.com/gotutiyan/naist_essay_2021](https://github.com/gotutiyan/naist_essay_2021)|I|2021|
 |[https://github.com/otakumesi/naist_essay](https://github.com/otakumesi/naist_essay)|I|2020|
 |[https://github.com/Shiyu-Oguro/NAIST_Essay_Oguro](https://github.com/Shiyu-Oguro/NAIST_Essay_Oguro)|I|2019|
 |[https://github.com/matasuke/NAIST_essay](https://github.com/matasuke/NAIST_essay)|I|2017|
