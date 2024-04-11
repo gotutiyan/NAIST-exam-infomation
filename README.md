@@ -33,7 +33,7 @@ What's "Divisions"
 
 |Title|Devisions|Year|
 |:--|:-:|:-:|
-|[NAIST 入試に関する個人的なメモ](https://kyohei-fushida.net/entrance_exam.html)|||
+|[NAIST受験記（2024年秋学期第1回 情報科学領域 合格）](https://sizu.me/naberinu/posts/95otuecawbd4)|I|2024|
 |[NAIST合格体験記(2023年第1回情報科学領域)](https://note.com/one_uno_hana/n/nd4ef1e59ffdd)|I|2024|
 |[NAIST(情報領域)に落ちて京大情報学研究科システム科学コースの院試に合格した話](https://note.com/kita0908/n/nfa09f31bfa19)|I|2023|
 |[NAIST合格体験記2回目受験](https://naist-dao.hatenablog.com/entry/2023/07/22/110403)|I|2023|
@@ -70,6 +70,7 @@ What's "Divisions"
 |[文系がNAISTを受験した話](https://kogumagoya.com/blog/archives/298)|I|2017|
 |[NAIST 情報科学研究科 受験体験記 (2017 年度春学期入学)](https://sira.dev/blog/2016/07/07/naist-exam/)|I|2017|
 |[NAIST受験記（情報科学研究科 2016年度 第1回）](https://kujira16.hateblo.jp/entry/2015/07/17/112337)|I|2016|
+|[NAIST 入試に関する個人的なメモ](https://kyohei-fushida.net/entrance_exam.html)||2011|
 |[NAIST合格体験記](https://www.shirayu.net/note/naist/road2pass)|I|2009|
 |[奈良先端大の入学試験対策【NAIST,バイオサイエンス】](https://realpuppet.com/%E5%A5%88%E8%89%AF%E5%85%88%E7%AB%AF%E5%A4%A7%E3%81%AE%E5%85%A5%E5%AD%A6%E8%A9%A6%E9%A8%93%E5%AF%BE%E7%AD%96%E3%80%90naist%E3%83%90%E3%82%A4%E3%82%AA%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9/)|B|????|
 
